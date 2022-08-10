@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Pascutti 
 
-- 🔭 Hoje trabalho com front-end e back-end
+- 🔭 Hoje trabalho com back-end
 - 🌱 Estudando .NET C#
 
 <div align="center">

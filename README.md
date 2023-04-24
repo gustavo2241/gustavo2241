@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Pascutti 
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando .NET C#
+- 🔭 Atualmente trabalho como desenvolvedor back-end .NET C#
+- 🌱 Em constante evolução e apaixonado por tecnologia.
 
 <div align="center">
   <a href="https://github.com/gustavo2241">
